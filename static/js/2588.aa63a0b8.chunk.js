@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklayout_jsx=self.webpackChunklayout_jsx||[]).push([[2588],{42588:(a,s,e)=>{e.r(s),e.d(s,{default:()=>l});var t=e(58467),u=e(46417);const l=()=>(0,u.jsx)(t.Fg,{to:"/ban-hang",replace:!0})}}]);
